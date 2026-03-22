@@ -80,5 +80,9 @@ Tkinter (GUI)
 1. Install Python  
 2. Run the main file
 
-```bash
-python main.py
+## 🎥 Demo Video
+
+Click the image below to watch the demo:
+
+[![Watch the Demo](https://img.icons8.com/ios-filled/500/play-button-circled.png)](https://drive.google.com/file/d/1-r9ouYbyiu6huirFUfDBLWp5BsfM5jqB/view)
+
